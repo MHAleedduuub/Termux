@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Update packages
-pkg update -y && pkg upgrade -y
+# pkg update -y && pkg upgrade -y
 
 # Install required packages
 pkg install -y zsh toilet figlet git curl wget
