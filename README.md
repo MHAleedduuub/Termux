@@ -23,5 +23,6 @@ git clone https://github.com/MHAleedduuub/Termux
 chmod +x setup.sh
 ```
 ## setup
+```
 ./setup.sh
 ```
