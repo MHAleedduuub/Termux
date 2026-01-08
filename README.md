@@ -4,14 +4,19 @@
 
 
 ```
-pkg update -y && pkg upgrade -y```
+pkg update -y && pkg upgrade -y
+
 ```
-pkg install -y git```
+pkg install -y gi
+
 ```
-git clone https://github.com/MHAleedduuub/Termux```
+git clone https://github.com/MHAleedduuub/Termux
+
 ```
-cd termux```
+cd termux
+
 ```
-chmod +x setup.sh```
+chmod +x setup.sh
+
 ```
 ./setup.sh```
