@@ -24,3 +24,4 @@ chmod +x setup.sh
 ```
 ## setup
 ./setup.sh
+```
