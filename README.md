@@ -2,21 +2,25 @@
 
 ## Installation
 
-
+## package update
 ```
 pkg update -y && pkg upgrade -y
 
 ```
-pkg install -y gi
+## install git
+```
+pkg install git -y
+```
+## git clone
 
 ```
 git clone https://github.com/MHAleedduuub/Termux
 
 ```
-cd termux
+## chmod
 
 ```
 chmod +x setup.sh
-
 ```
-./setup.sh```
+## setup
+./setup.sh
