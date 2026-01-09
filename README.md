@@ -17,6 +17,10 @@ pkg install git -y
 git clone https://github.com/MHAleedduuub/Termux
 
 ```
+# cd file for execute
+```
+cd setup.sh
+```
 ## chmod
 
 ```
@@ -26,3 +30,6 @@ chmod +x setup.sh
 ```
 ./setup.sh
 ```
+
+# now you have kali linux on your termux
+# //it's only image
